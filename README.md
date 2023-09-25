@@ -1,7 +1,7 @@
 A fully Material ToDo app with minimal features, made specidfically for those with ADHD so they have a distraction-free way to schedule present and upcoming tasks!
 
 Screenshots:
-![IMG_7410](https://github.com/zsarker4/the-little-green-calendar/assets/90015662/db1f8ea9-5d8e-48aa-9a1c-444fbc053ccd)
+![IMG_7410](https://github.com/zsarker4/the-little-green-calendar/assets/90015662/db1f8ea9-5d8e-48aa-9a1c-444fbc053ccd)  width="100" height="100"
 ![IMG_7411](https://github.com/zsarker4/the-little-green-calendar/assets/90015662/117fb524-47b8-4742-8d31-c3a2fab5fe01)
 ![IMG_7412](https://github.com/zsarker4/the-little-green-calendar/assets/90015662/4ce4f94e-19d4-4949-be7a-bcfe6663a7b0)
 ![IMG_7418](https://github.com/zsarker4/the-little-green-calendar/assets/90015662/5691886d-beee-48b4-b0c2-30f3ee7886cd)
